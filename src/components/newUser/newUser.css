@@ -1,0 +1,23 @@
+.newUserContainer {
+  margin-left: 10px;
+  padding: 10px;
+  width: 400px;
+  height: 200px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+.newUserBtn {
+  display: flex;
+  justify-content: end;
+  gap: 5px;
+}
+
+.newUserInputs {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}

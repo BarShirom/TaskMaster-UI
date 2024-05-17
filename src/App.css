@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.app {
+  display: flex;
+}
+.headerAndUsers {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+label {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.todosAndPosts {
+  margin-left: 20px;
+}
